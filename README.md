@@ -1,3 +1,5 @@
+origin: https://github.com/andymcdgeo/Petrophysics-Python-Series
+
 # Petrophysics-Python-Series
 This series of Jupyter Notebooks take you through various aspects of working with Python and Petrophysical data.
 A number of the notebooks are accompanied by either a Blog Post or a Medium article. You can find the full list on my website at:
